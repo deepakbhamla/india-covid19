@@ -1,0 +1,35 @@
+table{
+    width: 70%;
+    margin: auto;
+}
+.state, .active, .recovered, .deaths, .confirmed{
+    background-color: darkkhaki;
+    width: 150px;
+    padding: 10px;
+    color:#fff;
+    border: 1px solid #E0E0E0;
+    border-radius: 5px;
+    transition: all 0.3s ease-in;
+    background-color:#29B6F6;
+
+}
+.state:hover, .active:hover, .recovered:hover, .deaths:hover, .confirmed:hover {
+    transform: scale(1.05);
+    cursor: pointer;
+}
+.confirmed:hover{
+    background-color:#b39ddb;
+}
+.active:hover{
+    background-color:#29B6F6;
+}
+.recovered:hover{
+    background-color: #AED581;
+}
+.deaths:hover{
+    background-color: #e57373;
+} 
+
+thead th{
+    font-size: 12px;
+}
