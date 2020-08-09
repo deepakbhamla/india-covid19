@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/india-covid19/static/css/main.be212863.chunk.css",
+    "main.js": "/india-covid19/static/js/main.f73b81b0.chunk.js",
+    "main.js.map": "/india-covid19/static/js/main.f73b81b0.chunk.js.map",
+    "runtime-main.js": "/india-covid19/static/js/runtime-main.a0ed89a8.js",
+    "runtime-main.js.map": "/india-covid19/static/js/runtime-main.a0ed89a8.js.map",
+    "static/js/2.3013a7b2.chunk.js": "/india-covid19/static/js/2.3013a7b2.chunk.js",
+    "static/js/2.3013a7b2.chunk.js.map": "/india-covid19/static/js/2.3013a7b2.chunk.js.map",
+    "index.html": "/india-covid19/index.html",
+    "precache-manifest.941b85082aa5aa180757c7d7d78f636b.js": "/india-covid19/precache-manifest.941b85082aa5aa180757c7d7d78f636b.js",
+    "service-worker.js": "/india-covid19/service-worker.js",
+    "static/css/main.be212863.chunk.css.map": "/india-covid19/static/css/main.be212863.chunk.css.map",
+    "static/js/2.3013a7b2.chunk.js.LICENSE.txt": "/india-covid19/static/js/2.3013a7b2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a0ed89a8.js",
+    "static/js/2.3013a7b2.chunk.js",
+    "static/css/main.be212863.chunk.css",
+    "static/js/main.f73b81b0.chunk.js"
+  ]
+}
